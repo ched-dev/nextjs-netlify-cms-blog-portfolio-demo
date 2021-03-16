@@ -1,0 +1,9 @@
+{
+  "title": "The Real Deal with NextJS",
+  "slug": "nextjs-real-deal",
+  "date": "2020-09-15T20:50:51.165Z",
+  "coverImage": "/img/34961490322_bb9611120a_k.jpg",
+  "body": "This is **shorter** post.\n\n```\n// code sample for y'all\n```",
+  "bodyHtml": "<p>This is <strong>shorter</strong> post.</p>\n<pre><code>// code sample for y'all\n</code></pre>\n",
+  "dateFormatted": "Tuesday, September 15, 2020"
+}

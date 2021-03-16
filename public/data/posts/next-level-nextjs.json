@@ -1,0 +1,9 @@
+{
+  "title": "Next level NextJS",
+  "slug": "next-level-nextjs",
+  "date": "2020-09-14T20:22:14.728Z",
+  "coverImage": "/img/34484249943_85383d7802_k.jpg",
+  "body": "Time to expand on our prior knowledge of NextJS. Let's take a look at the following code sample:\n\n```\nnode prebuild.js\n```\n\nIs this something you really want to do?",
+  "bodyHtml": "<p>Time to expand on our prior knowledge of NextJS. Let's take a look at the following code sample:</p>\n<pre><code>node prebuild.js\n</code></pre>\n<p>Is this something you really want to do?</p>\n",
+  "dateFormatted": "Monday, September 14, 2020"
+}

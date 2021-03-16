@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Meetup Review: NextJS with Netlify CMS",
+    "slug": "meetup-review",
+    "date": "2020-09-18T01:45:39.821Z",
+    "coverImage": "/img/35382100091_e287ac028d_k.jpg",
+    "body": "How was the meetup you asked?\n\n> It was dope.",
+    "bodyHtml": "<p>How was the meetup you asked?</p>\n<blockquote>\n<p>It was dope.</p>\n</blockquote>\n",
+    "dateFormatted": "Thursday, September 17, 2020"
+  },
+  {
+    "title": "The Real Deal with NextJS",
+    "slug": "nextjs-real-deal",
+    "date": "2020-09-15T20:50:51.165Z",
+    "coverImage": "/img/34961490322_bb9611120a_k.jpg",
+    "body": "This is **shorter** post.\n\n```\n// code sample for y'all\n```",
+    "bodyHtml": "<p>This is <strong>shorter</strong> post.</p>\n<pre><code>// code sample for y'all\n</code></pre>\n",
+    "dateFormatted": "Tuesday, September 15, 2020"
+  },
+  {
+    "title": "Next level NextJS",
+    "slug": "next-level-nextjs",
+    "date": "2020-09-14T20:22:14.728Z",
+    "coverImage": "/img/34484249943_85383d7802_k.jpg",
+    "body": "Time to expand on our prior knowledge of NextJS. Let's take a look at the following code sample:\n\n```\nnode prebuild.js\n```\n\nIs this something you really want to do?",
+    "bodyHtml": "<p>Time to expand on our prior knowledge of NextJS. Let's take a look at the following code sample:</p>\n<pre><code>node prebuild.js\n</code></pre>\n<p>Is this something you really want to do?</p>\n",
+    "dateFormatted": "Monday, September 14, 2020"
+  },
+  {
+    "title": "Introduction to NextJS",
+    "slug": "intro-to-nextjs",
+    "date": "2020-09-12T20:21:32.004Z",
+    "coverImage": "/img/31300468583_856fe746be_k.jpg",
+    "body": "Today we're going to learn about NextJS\n\n```\nimport React from 'react'\n```",
+    "bodyHtml": "<p>Today we're going to learn about NextJS</p>\n<pre><code>import React from 'react'\n</code></pre>\n",
+    "dateFormatted": "Saturday, September 12, 2020"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "title": "Introduction to NextJS",
+  "slug": "intro-to-nextjs",
+  "date": "2020-09-12T20:21:32.004Z",
+  "coverImage": "/img/31300468583_856fe746be_k.jpg",
+  "body": "Today we're going to learn about NextJS\n\n```\nimport React from 'react'\n```",
+  "bodyHtml": "<p>Today we're going to learn about NextJS</p>\n<pre><code>import React from 'react'\n</code></pre>\n",
+  "dateFormatted": "Saturday, September 12, 2020"
+}
